@@ -1,6 +1,6 @@
-News Tracker Application
+# News Tracker Application
 
-Team Members :
+## Team Members :
 
 1.  Karthick R
 2.	Rafiq Azharudheen M A 
