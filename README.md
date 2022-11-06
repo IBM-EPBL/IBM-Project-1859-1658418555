@@ -1,9 +1,15 @@
-# News Tracker Application
+# News Tracker Application :
 
+| Project Name | News Tracker Application |
+| ------------- | ----------------------- |
+| Domain | Cloud Application Development |
+| Team Id | PNT2022TMID35462 |
+	
 ## Team Members :
-
-1.  Karthick R
-2.	Rafiq Azharudheen M A 
-3.	Suriya A
-4.	Dhiyanesh K V 
+| Role | Name of Member |
+| ------------- | ----------------------- |
+| Team Leader  | Karthick R |
+| Team Member 1  | Rafiq Azharudheen M A |
+| Team Member 2  | Dhiyanesh K V |
+| Team Member 3  | Suriya A |
 
